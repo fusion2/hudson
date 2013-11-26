@@ -1,5 +1,4 @@
 cd $WORKSPACE
-export WORKSPACE2=$PWD
 mkdir -p ../android
 cd ../android
 export WORKSPACE=$PWD
