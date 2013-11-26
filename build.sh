@@ -66,7 +66,7 @@ then
     cp -R $BOOTSTRAP/.repo $REPO_BRANCH
   fi
   cd $REPO_BRANCH
-  repo init -u https://github.com/CarbonDev/fusion2.git -b $REPO_BRANCH
+  repo init -u https://github.com/fusion2/android.git -b $REPO_BRANCH
 else
   cd $REPO_BRANCH
   # temp hack for turl
